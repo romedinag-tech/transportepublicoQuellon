@@ -1,0 +1,1 @@
+{"periodo":"03-2026","metrica_gini":"Gini de km por bus (0=trabajo repartido, 1=concentrado)","lineas":{"2":{"nombre":"Ruta San Antonio - Punta Lapas","n_buses":15,"km":395874.0,"excesos":15,"exc100":0.0,"gini":0.263}}}

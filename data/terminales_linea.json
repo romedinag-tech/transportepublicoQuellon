@@ -1,0 +1,1 @@
+{"2":{"puntos":[{"lat":-43.1381,"lon":-73.6175,"tipo":"terminal","buses":15,"det":38602,"intens":7.07,"origen":"dwell_intensidad"},{"lat":-43.11324,"lon":-73.56804,"tipo":"terminal","det":32684,"origen":"extremo_ruta","n":4},{"lat":-43.12933,"lon":-73.64341,"tipo":"terminal","det":1112,"origen":"extremo_ruta","n":2}],"dist":{"det_raw":22.0,"det_corr":17.3,"share_terminal":25.9}}}
